@@ -56,7 +56,6 @@ public class MainActivity extends AppCompatActivity {
                         catch (Exception e)
                         {
                             Toast.makeText(MainActivity.this,e.getMessage(), Toast.LENGTH_SHORT).show();
-//fuckyoubitches
                         }
                     }
                 },
